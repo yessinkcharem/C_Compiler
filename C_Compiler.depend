@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1642468722 source:c:\users\asus\desktop\feres\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"lexical_analyser.h"
+
+1642468378 source:c:\users\asus\desktop\feres\lexical_analyser.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"lexical_analyser.h"
+
+1642466436 c:\users\asus\desktop\feres\lexical_analyser.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1642467210 c:\users\asus\desktop\feres\lexical_analyser.h
+
+1642513486 source:c:\users\asus\desktop\c_compiler\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"lexical_analyser.h"
+
+1642467210 c:\users\asus\desktop\c_compiler\lexical_analyser.h
+
+1642506338 source:c:\users\asus\desktop\c_compiler\lexical_analyser.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"lexical_analyser.h"
+
